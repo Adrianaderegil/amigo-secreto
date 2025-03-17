@@ -23,13 +23,12 @@ Pantalla de inicio:**
 ![image](https://github.com/user-attachments/assets/1a2e0dd8-0274-4bf3-b191-79c01f4efcc1)
 
 ## 🛠 ¿Cómo usarlo? <br>
-Descarga el código clonando el repositorio:
+Descarga el código clonando el repositorio: https://github.com/Adrianaderegil/amigo-secreto
 Abre index.html en tu navegador y ¡listo! 🎉 <br>
 
 
 ## 📄 ¿Qué hay detrás?
 Este proyecto está construido con:
-
 🏗 HTML para la estructura. <br>
 🎨 CSS para los estilos. <br>
 🚀 JavaScript para la lógica del juego. <br>
