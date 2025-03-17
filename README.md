@@ -1,4 +1,5 @@
-🎁 Juego del Amigo Secreto <br>
+# 🎁 Juego del Amigo Secreto <br>
+
 ¡Bienvenido! 🎉 Este es un juego web súper fácil de usar para organizar un sorteo de "Amigo Secreto" sin complicaciones. Solo agrega los nombres, presiona un botón y deja que la magia suceda.
 
 🚀 ¿Qué puedes hacer con esta app? <br>
@@ -21,12 +22,12 @@ Agregando nombres:
 Sorteando un amigo secreto:
 ![image](https://github.com/user-attachments/assets/1a2e0dd8-0274-4bf3-b191-79c01f4efcc1)
 
-🛠 ¿Cómo usarlo? <br>
+## 🛠 ¿Cómo usarlo? <br>
 Descarga el código clonando el repositorio:
 Abre index.html en tu navegador y ¡listo! 🎉 <br>
 
 
-📄 ¿Qué hay detrás?
+## 📄 ¿Qué hay detrás?
 Este proyecto está construido con:
 
 🏗 HTML para la estructura. <br>
